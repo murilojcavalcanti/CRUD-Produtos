@@ -1,0 +1,15 @@
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\bin\Debug\net6.0\Desafio_IBID.exe
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\bin\Debug\net6.0\Desafio_IBID.deps.json
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\bin\Debug\net6.0\Desafio_IBID.runtimeconfig.json
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\bin\Debug\net6.0\Desafio_IBID.dll
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\bin\Debug\net6.0\Desafio_IBID.pdb
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.csproj.AssemblyReference.cache
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.AssemblyInfoInputs.cache
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.AssemblyInfo.cs
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.csproj.CoreCompileInputs.cache
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.dll
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\refint\Desafio_IBID.dll
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.pdb
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\Desafio_IBID.genruntimeconfig.cache
+C:\Users\muril\Documents\00_Programacao\C#\Testes_e_exercicios\DesafioIBID\Desafio_IBID\obj\Debug\net6.0\ref\Desafio_IBID.dll
